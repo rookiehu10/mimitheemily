@@ -1,0 +1,182 @@
+body{
+    font-family: 'Public Sans', sans-serif;
+    font-size: 20px;
+    background-color: rgba(0,0,0,0.8);
+    color: #ffffff;
+    text-align: center;
+}
+
+#masodikbody{
+    background-image: url("thumb-1920-679478.png");
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 20px;
+    background-color: rgba(0,0,0,0.8);
+    color: #ffffff;
+    text-align: center;
+}
+
+.header{
+    text-align:center;
+    font-size: 30px;
+}
+
+.header2{
+    text-align:center;
+    font-size: 30px;
+    color: black;
+}
+
+.background{
+    margin-top:20px;
+    margin-left:20px;
+    margin-right:20px;
+    color:rgba(0,0,0,0);
+    border-style: solid;
+    border-width: 5px;
+    border-color:#00bfff;
+    background-image:url("landscape.png");
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-top:50px;
+    padding-bottom:100px;
+}
+
+.background2{
+    margin-top:1px;
+    margin-left:1px;
+    margin-right:1px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:rgba(0,216,255,0.5);
+    background-image:url("thumb-1920-679478.png");
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-top:0px;
+    padding-bottom:0px;
+}
+
+.box{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(0,0,0,0.5);
+    margin: 20px;
+}
+
+#cim:hover{
+    color:#ff00f0;
+}
+
+#text:hover{
+    color:#00bfff;
+}
+
+#iloveyou:hover{
+    color:#ff00f0;
+}
+
+#iloveyouu:hover{
+    color:#ff00f0;
+}
+
+#szeretlekbox{
+    text-align:center;
+}
+
+#szerelmem:hover{
+    color:#ff00f0;
+}
+
+#szeretlek{
+    font-family: 'Public Sans', sans-serif;
+    border:none;
+    color:white;
+    text-decoration: none;
+    display:inline-block;
+    background-color: rgba(0,0,0,0);
+    font-size: 20px;
+    cursor:pointer;
+}
+
+.szeretlek{
+    background-color: pink;
+}
+
+.szeretlek2{
+    background-color:#00bdff;
+}
+
+#szeretlek:hover{
+    color:#ff00f0;
+}
+
+#switch{
+    font-size: 13px;
+}
+
+#aludhatunk{
+    text-align: center;
+}
+
+#aludhatunk:hover{
+    color:#00bfff;
+}
+
+#tali{
+    text-align: center;
+}
+
+#countdown{
+    font-size: 30px;
+}
+
+#countdown2{
+    font-size: 30px;
+    color:#00bdff;
+}
+
+.end{
+    text-align: center;
+    color: #00bfff;
+    padding-top: 10px;
+    padding-bottom: 17px;
+}
+
+a{
+    color: #00bfff;
+    text-decoration:none;
+}
+
+a:link{
+    color: #00bfff;
+    text-decoration:none;
+}
+
+a:visited{
+    color: #00bfff;
+    text-decoration:none;
+}
+
+a:hover{
+    color: #ff00f0;
+    text-decoration:none;
+}
+
+a:active{
+    color: #00bfff;
+    text-decoration:none;
+}
+
+#endtext:hover{
+    color: #ff00f0;
+}
+
+#endtexttext{
+    font-size: 50px;
+}
